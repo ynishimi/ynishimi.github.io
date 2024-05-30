@@ -1,1 +1,0 @@
-# ynishimi.github.io
