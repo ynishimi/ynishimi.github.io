@@ -44,7 +44,7 @@ categories: diary
 
 どうせなら誰かの気持ちとか楽しかったこととか知りたい．
 
-![つかの間の自由]({{site.baseurl}}/images/20240612.jpg)
+![つかの間の自由]({{site.baseurl}}/images/20240612.png)
 
 ## 20240613
 
