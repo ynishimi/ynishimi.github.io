@@ -3,6 +3,7 @@ layout: post
 title:  "昔聴いてた曲"
 date:   2024-06-09 23:00:00 +0900
 categories: diary
+published: false
 ---
 
 昔どんな曲を聴いていたのか，振り返ってみようと思います♪
