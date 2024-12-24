@@ -5,8 +5,41 @@ date:   2024-06-29 23:00:00 +0900
 categories: diary
 ---
 
-## 20240629
+<!-- ## 20240629
 
 ## 言葉メモ
 
 - 排除アート
+
+## 20240630
+
+鉛筆って，使ううちにどんどん形が変わっていくから面白い．
+先が丸まったり，削ったら短くなったり．
+削るタイミングや使用をやめる長さがはっきりと決まっていないのもポイント．
+
+ボールペンとかはインクが切れちゃったらおしまいだけど，鉛筆は芯の部分が露出している限り筆記できる． -->
+
+## 20240705
+
+不安
+
+## 20240707
+
+### 星野源
+
+高校のクラスメイトに星野源のファンだという人がいた．その人に，星野源の音楽がいかにカッコいいか熱弁してしまった．
+それも2回も．
+
+2回とも微妙な反応をされ，その日の夜に「なんであんなこと言っちゃったんだろう...」と後悔した．
+
+星野源のデビューアルバムは細野晴臣主宰のレーベルから出てるらしい．
+最近，自分が気に入ったアーティストがことごとく細野晴臣に接触していたことを知り，驚いた．Ginger Root，青葉市子，John Carroll Kirby...
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5j3nCRdIUOMUhzT16OySHK?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+### 七夕
+
+大学で見つけた短冊に何か気の利いたことを書こうと思ったけど，何も思いつかなかった．
+素直に世界平和とかお願いしとけば良かったかな．
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4o8hUEImNt8ZKogZvgsAxc?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
