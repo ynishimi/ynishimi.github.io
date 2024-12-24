@@ -33,13 +33,18 @@ remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
-
 header_pages:
   - about.md
   # - portfolio.md
 
 minima:
   skin: auto
+  social_links:
+    - { platform: bluesky,  user_url: "https://bsky.app/profile/ynishimi.bsky.social" }
+    - { platform: twitter, user_url: "https://twitter.com/y_nishimi" }
+    - { platform: instagram, user_url: "https://www.instagram.com/ynishimi/" }
+    - { platform: github, user_url: "https://github.com/ynishimi" }
+  show_excerpts: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
