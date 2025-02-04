@@ -48,7 +48,7 @@ params:
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
-  ShowReadingTime: true
+  ShowReadingTime: false
   ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
@@ -58,7 +58,7 @@ params:
   ShowFullTextinRSS: true
   UseHugoToc: true
   disableSpecial1stPost: false
-  disableScrollToTop: false
+  disableScrollToTop: true
   comments: false
   hidemeta: false
   hideSummary: false
