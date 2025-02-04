@@ -1,9 +1,29 @@
 baseURL: https://ynishimi.github.io/
 title: nikki
-pagination.pagerSize: 5
 theme: PaperMod
 
-defaultContentLanguage: jp
+# defaultContentLanguage: ja
+defaultContentLanguage: ja
+languages:
+  ja:
+    disabled: false
+    title: nikki
+    contentDir: content/ja
+    weight: 1
+    hasCJKLanguage: true
+    params:
+      homeInfoParams:
+        Title: "nikki"
+        Content: 思ったことを書く
+  en:
+    disabled: true
+    title: nikki
+    contentDir: content/en
+    weight: 2
+    params:
+      homeInfoParams:
+        Title: "nikki"
+        # Content: love -> 🐕, 🎶 , 🌐
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -21,7 +41,7 @@ params:
   title: nikki
   description: "nikki etc"
   keywords: [Blog, Portfolio, PaperMod]
-  author: yuki
+  # author: yuki
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "2006/01/02"
@@ -75,19 +95,16 @@ params:
   #       url: tags
 
   # home-info mode
-  homeInfoParams:
-    Title: "nikki"
-    Content: love -> 🐕, 🎶 , 🌐
 
   socialIcons:
     - name: bluesky
       url: "https://bsky.app/profile/ynishimi.bsky.social"
+    # - name: instagram
+    #   url: "https://www.instagram.com/ynishimi"
+    # - name: spotify
+    #   url: "https://open.spotify.com/user/%E3%83%A6%E3%82%A6%E3%82%AD?si=fa28f575e23e4ab5"
     - name: twitter
       url: "https://x.com/y_nishimi"
-    - name: instagram
-      url: "https://www.instagram.com/ynishimi"
-    - name: spotify
-      url: "https://open.spotify.com/user/%E3%83%A6%E3%82%A6%E3%82%AD?si=fa28f575e23e4ab5"
     - name: github
       url: "https://github.com/ynishimi"
 
@@ -121,16 +138,26 @@ params:
     minMatchCharLength: 0
     limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
     keys: ["title", "permalink", "summary", "content"]
+
+pagination:
+  pagerSize: 5
+  disableAliases: false
+  path: page
+
 menu:
   main:
+    - identifier: archives
+      name: archives
+      url: /archives/
+      weight: 10
     - identifier: categories
       name: categories
       url: /categories/
-      weight: 10
+      weight: 20
     # - identifier: tags
     #   name: tags
     #   url: /tags/
-    #   weight: 20
+    #   weight: 30
     # - identifier: example
     #   name: example.org
     #   url: https://example.org
