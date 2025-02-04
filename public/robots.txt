@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ynishimi.github.io/sitemap.xml
