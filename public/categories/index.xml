@@ -9,23 +9,8 @@
       <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.143.1</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 05 Feb 2025 01:40:09 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Diary</title>
-      <link>http://localhost:1313/categories/diary/</link>
-      <pubDate>Wed, 05 Feb 2025 01:40:09 +0900</pubDate>
-      <guid>http://localhost:1313/categories/diary/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Others</title>
-      <link>http://localhost:1313/categories/others/</link>
-      <pubDate>Thu, 30 May 2024 15:52:30 +0900</pubDate>
-      <guid>http://localhost:1313/categories/others/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>

@@ -2,7 +2,6 @@ baseURL: https://ynishimi.github.io/
 title: nikki
 theme: PaperMod
 
-# defaultContentLanguage: ja
 defaultContentLanguage: ja
 languages:
   ja:
@@ -14,7 +13,7 @@ languages:
     params:
       homeInfoParams:
         Title: "nikki"
-        Content: 思ったことを書く
+        # Content: 思ったことを書く
   en:
     disabled: true
     title: nikki
@@ -97,14 +96,12 @@ params:
   # home-info mode
 
   socialIcons:
-    - name: bluesky
-      url: "https://bsky.app/profile/ynishimi.bsky.social"
+    # - name: bluesky
+    #   url: "https://bsky.app/profile/ynishimi.bsky.social"
     # - name: instagram
     #   url: "https://www.instagram.com/ynishimi"
     # - name: spotify
     #   url: "https://open.spotify.com/user/%E3%83%A6%E3%82%A6%E3%82%AD?si=fa28f575e23e4ab5"
-    - name: twitter
-      url: "https://x.com/y_nishimi"
     - name: github
       url: "https://github.com/ynishimi"
 
@@ -154,6 +151,10 @@ menu:
       name: categories
       url: /categories/
       weight: 20
+    - identifier: about
+      name: about
+      url: /about/
+      weight: 30
     # - identifier: tags
     #   name: tags
     #   url: /tags/
