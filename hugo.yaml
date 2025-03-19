@@ -143,9 +143,9 @@ pagination:
 
 menu:
   main:
-    - identifier: archives
-      name: archives
-      url: /archives/
+    - identifier: archive
+      name: archive
+      url: /archive/
       weight: 10
     - identifier: categories
       name: categories

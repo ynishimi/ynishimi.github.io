@@ -1,9 +1,10 @@
 ---
 title: 'About me'
 url: '/about/'
-# layout: single
+layout: single
 # showtoc: true
 # tocopen: true
+ShowBreadCrumbs: false
 ---
 
 ## 自己紹介
