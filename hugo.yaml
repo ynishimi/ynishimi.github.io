@@ -102,8 +102,8 @@ params:
     #   url: "https://www.instagram.com/ynishimi"
     # - name: spotify
     #   url: "https://open.spotify.com/user/%E3%83%A6%E3%82%A6%E3%82%AD?si=fa28f575e23e4ab5"
-    - name: github
-      url: "https://github.com/ynishimi"
+    # - name: github
+    #   url: "https://github.com/ynishimi"
 
 
   analytics:

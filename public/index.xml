@@ -9,7 +9,7 @@
       <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo -- 0.146.6</generator>
     <language>ja</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -19,29 +19,35 @@
       <guid>http://localhost:1313/about/</guid>
       <description>&lt;h2 id=&#34;自己紹介&#34;&gt;自己紹介&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;西見優輝&lt;/strong&gt; は、京都大学 大学院情報学研究科 通信情報システムコース 1回生です。&lt;/p&gt;
-&lt;h2 id=&#34;実績&#34;&gt;実績&lt;/h2&gt;
+&lt;h2 id=&#34;活動&#34;&gt;活動&lt;/h2&gt;
 &lt;dl&gt;
-&lt;dt&gt;&lt;a href=&#34;https://www.saci.kyoto-u.ac.jp/topics/ims/14055.html&#34;&gt;テクノロジーが美となるとき&lt;/a&gt; &lt;em&gt;2022/10 - 2023/02&lt;/em&gt;&lt;/dt&gt;
+&lt;dt&gt;&lt;a href=&#34;https://www.saci.kyoto-u.ac.jp/topics/ims/14134.html&#34;&gt;テクノロジーが美となるとき&lt;/a&gt; &lt;em&gt;2022/10 - 2023/02&lt;/em&gt;&lt;/dt&gt;
 &lt;dd&gt;京都大学 産官学連携本部イノベーション マネジメント サイエンス起業・教育部主催のプログラム「テクノロジーが美となるとき」で、工芸やアート、エンジニアリングに関する講義の受講やフィールドワークを行った。
 グループワークでは、担い売りと呼ばれる江戸時代の路上営業の屋台をもとに、機械学習により浮世絵を生成するプリントシール機を模したアート作品を制作。
-ニューヨークのギャラリー、 NowHere にて制作した作品を展示した。&lt;/dd&gt;
-&lt;dt&gt;&lt;a href=&#34;https://space.innovationkyoto.org/lignosat-project/&#34;&gt;LignoSat Project&lt;/a&gt; &lt;em&gt;2023/04 - Present&lt;/em&gt;&lt;/dt&gt;
+&lt;a href=&#34;https://www.saci.kyoto-u.ac.jp/topics/news/14055.html&#34;&gt;ニューヨークのギャラリー、 NowHere にて制作した作品を展示&lt;/a&gt;した。&lt;/dd&gt;
+&lt;dt&gt;&lt;a href=&#34;https://space.innovationkyoto.org/lignosat-project/&#34;&gt;LignoSat Project&lt;/a&gt; &lt;em&gt;2023/04 - 2025/03&lt;/em&gt;&lt;/dt&gt;
 &lt;dd&gt;京都大学有人宇宙学研究センターと住友林業株式会社による、世界初の木造人工衛星プロジェクトに学生メンバとして参加。
 アンテナにより衛星を追尾し、衛星と FM 通信を行う地上局プログラムの開発・保守を行っている。
-1号機は2024年12月に国際宇宙ステーションより放出された。&lt;/dd&gt;
+1号機は&lt;a href=&#34;https://sfc.jp/information/news/2024/2024-05-28.html&#34;&gt;2024年12月に国際宇宙ステーションより放出された&lt;/a&gt;。&lt;/dd&gt;
+&lt;dt&gt;&lt;a href=&#34;https://www.kyoto-u.ac.jp/ja/education-campus/student-3/types/exchange&#34;&gt;交換留学&lt;/a&gt; &lt;em&gt;2025/08 - 2026/07&lt;/em&gt;&lt;/dt&gt;
+&lt;dd&gt;&lt;a href=&#34;https://www.epfl.ch/about/&#34;&gt;スイス連邦工科大学ローザンヌ校 (EPFL)&lt;/a&gt; にて、2学期間留学予定。
+コンピュータ科学の受講および研究を行う。&lt;/dd&gt;
 &lt;/dl&gt;</description>
       <content:encoded><![CDATA[<h2 id="自己紹介">自己紹介</h2>
 <p><strong>西見優輝</strong> は、京都大学 大学院情報学研究科 通信情報システムコース 1回生です。</p>
-<h2 id="実績">実績</h2>
+<h2 id="活動">活動</h2>
 <dl>
-<dt><a href="https://www.saci.kyoto-u.ac.jp/topics/ims/14055.html">テクノロジーが美となるとき</a> <em>2022/10 - 2023/02</em></dt>
+<dt><a href="https://www.saci.kyoto-u.ac.jp/topics/ims/14134.html">テクノロジーが美となるとき</a> <em>2022/10 - 2023/02</em></dt>
 <dd>京都大学 産官学連携本部イノベーション マネジメント サイエンス起業・教育部主催のプログラム「テクノロジーが美となるとき」で、工芸やアート、エンジニアリングに関する講義の受講やフィールドワークを行った。
 グループワークでは、担い売りと呼ばれる江戸時代の路上営業の屋台をもとに、機械学習により浮世絵を生成するプリントシール機を模したアート作品を制作。
-ニューヨークのギャラリー、 NowHere にて制作した作品を展示した。</dd>
-<dt><a href="https://space.innovationkyoto.org/lignosat-project/">LignoSat Project</a> <em>2023/04 - Present</em></dt>
+<a href="https://www.saci.kyoto-u.ac.jp/topics/news/14055.html">ニューヨークのギャラリー、 NowHere にて制作した作品を展示</a>した。</dd>
+<dt><a href="https://space.innovationkyoto.org/lignosat-project/">LignoSat Project</a> <em>2023/04 - 2025/03</em></dt>
 <dd>京都大学有人宇宙学研究センターと住友林業株式会社による、世界初の木造人工衛星プロジェクトに学生メンバとして参加。
 アンテナにより衛星を追尾し、衛星と FM 通信を行う地上局プログラムの開発・保守を行っている。
-1号機は2024年12月に国際宇宙ステーションより放出された。</dd>
+1号機は<a href="https://sfc.jp/information/news/2024/2024-05-28.html">2024年12月に国際宇宙ステーションより放出された</a>。</dd>
+<dt><a href="https://www.kyoto-u.ac.jp/ja/education-campus/student-3/types/exchange">交換留学</a> <em>2025/08 - 2026/07</em></dt>
+<dd><a href="https://www.epfl.ch/about/">スイス連邦工科大学ローザンヌ校 (EPFL)</a> にて、2学期間留学予定。
+コンピュータ科学の受講および研究を行う。</dd>
 </dl>
 ]]></content:encoded>
     </item>
