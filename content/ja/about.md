@@ -1,7 +1,8 @@
 ---
 title: 'About me'
-url: '/about/'
+url: 'about/'
 layout: single
+translationKey: about
 # showtoc: true
 # tocopen: true
 ShowBreadCrumbs: false

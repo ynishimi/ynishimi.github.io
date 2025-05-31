@@ -6,19 +6,63 @@ defaultContentLanguage: ja
 languages:
   ja:
     disabled: false
-    title: nikki
     contentDir: content/ja
+    languageName: Japanese
     weight: 1
     hasCJKLanguage: true
+    menu:
+      main:
+        - identifier: archive
+          name: archive
+          url: /archive/
+          weight: 10
+        - identifier: categories
+          name: categories
+          url: /categories/
+          weight: 20
+        - identifier: about
+          name: about
+          url: /about/
+          weight: 30
+        # - identifier: tags
+        #   name: tags
+        #   url: /tags/
+        #   weight: 30
+        # - identifier: example
+        #   name: example.org
+        #   url: https://example.org
+        #   weight: 30
     params:
       homeInfoParams:
         Title: "nikki"
         # Content: 思ったことを書く
   en:
-    disabled: true
-    title: nikki
+    disabled: false
     contentDir: content/en
+    languageName: English
     weight: 2
+    menu:
+      main:
+        - identifier: archive
+          name: archive
+          url: /en/archive/
+          weight: 10
+        - identifier: categories
+          name: categories
+          url: /en/categories/
+          weight: 20
+        - identifier: about
+          name: about
+          url: en/about/
+          weight: 30
+        # - identifier: tags
+        #   name: tags
+        #   url: /tags/
+        #   weight: 30
+        # - identifier: example
+        #   name: example.org
+        #   url: https://example.org
+        #   weight: 30
     params:
       homeInfoParams:
         Title: "nikki"
@@ -141,28 +185,7 @@ pagination:
   disableAliases: false
   path: page
 
-menu:
-  main:
-    - identifier: archive
-      name: archive
-      url: /archive/
-      weight: 10
-    - identifier: categories
-      name: categories
-      url: /categories/
-      weight: 20
-    - identifier: about
-      name: about
-      url: /about/
-      weight: 30
-    # - identifier: tags
-    #   name: tags
-    #   url: /tags/
-    #   weight: 30
-    # - identifier: example
-    #   name: example.org
-    #   url: https://example.org
-    #   weight: 30
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
