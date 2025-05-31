@@ -1,6 +1,6 @@
 ---
 title: 'About me'
-url: 'about/'
+url: '/about/'
 layout: single
 translationKey: about
 # showtoc: true
@@ -10,7 +10,7 @@ ShowBreadCrumbs: false
 
 ## 自己紹介
 
-**西見優輝** は、京都大学 大学院情報学研究科 通信情報システムコース 1回生です。
+**西見優輝** は、京都大学 大学院情報学研究科 通信情報システムコース 修士1回生です。
 
 ## 活動
 

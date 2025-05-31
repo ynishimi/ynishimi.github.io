@@ -16,18 +16,15 @@ languages:
           name: archive
           url: /archive/
           weight: 10
-        - identifier: categories
-          name: categories
-          url: /categories/
+        - identifier: tags
+          name: tags
+          url: /tags/
           weight: 20
         - identifier: about
-          name: about
+          name: about me
           url: /about/
           weight: 30
-        # - identifier: tags
-        #   name: tags
-        #   url: /tags/
-        #   weight: 30
+
         # - identifier: example
         #   name: example.org
         #   url: https://example.org
@@ -35,7 +32,7 @@ languages:
     params:
       homeInfoParams:
         Title: "nikki"
-        # Content: 思ったことを書く
+        Content: 思ったことを書く
   en:
     disabled: false
     contentDir: content/en
@@ -47,18 +44,15 @@ languages:
           name: archive
           url: /en/archive/
           weight: 10
-        - identifier: categories
-          name: categories
-          url: /en/categories/
+        - identifier: tags
+          name: tags
+          url: /en/tags/
           weight: 20
         - identifier: about
-          name: about
-          url: en/about/
+          name: about me
+          url: /en/about/
           weight: 30
-        # - identifier: tags
-        #   name: tags
-        #   url: /tags/
-        #   weight: 30
+
         # - identifier: example
         #   name: example.org
         #   url: https://example.org
@@ -66,7 +60,7 @@ languages:
     params:
       homeInfoParams:
         Title: "nikki"
-        # Content: love -> 🐕, 🎶 , 🌐
+        Content: love -> 🐕, 🎶 , 🌐
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -86,7 +80,7 @@ params:
   keywords: [Blog, Portfolio, PaperMod]
   # author: yuki
   # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  # images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "2006/01/02"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -146,8 +140,8 @@ params:
     #   url: "https://www.instagram.com/ynishimi"
     # - name: spotify
     #   url: "https://open.spotify.com/user/%E3%83%A6%E3%82%A6%E3%82%AD?si=fa28f575e23e4ab5"
-    # - name: github
-    #   url: "https://github.com/ynishimi"
+    - name: github
+      url: "https://github.com/ynishimi"
 
 
   analytics:
