@@ -4,6 +4,11 @@ draft: false
 title: はじめての コントリビューション
 tags: [tech, rust, rustfmt, oss]
 showtoc: true
+cover:
+    image: "after_contribution_trimmed.png"
+    alt: "GitHub に @rust-lang のバッジが付きました"
+    caption: "私も @rust-lang の仲間入りでしょうか"
+    relative: true
 ---
 
 この度はじめて OSS に Pull request を送り、無事マージされました！
@@ -136,6 +141,8 @@ rustfmt では [テストケースの作成](https://github.com/rust-lang/rustfm
 今回は簡単な修正でしたが、自分のコードが rustfmt で動いているというのは嬉しいものです。
 
 ![無事 Merge されました](successfully_merged.png)
+
+<!-- ![私も @rust-lang の仲間入りでしょうか](after_contribution.png) -->
 
 ## わかったこと
 
