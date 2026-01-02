@@ -24,6 +24,10 @@ languages:
           name: about me
           url: /about/
           weight: 30
+        - identifier: dokan
+          name: dokan
+          url: /dokan/
+          weight: 40
 
         # - identifier: example
         #   name: example.org
