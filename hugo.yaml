@@ -24,10 +24,14 @@ languages:
           name: about me
           url: /about/
           weight: 30
+        - identifier: paxos-tob
+          name: paxos-tob
+          url: https://github.com/ynishimi/paxos-tob/
+          weight: 40
         - identifier: dokan
           name: dokan
           url: /dokan/
-          weight: 40
+          weight: 50
 
         # - identifier: example
         #   name: example.org
