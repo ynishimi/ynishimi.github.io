@@ -43,6 +43,10 @@ function sendrecv(conn) {
                     body: file,
                 });
                 console.log("sent", file);
+                             console.log("conn closed");
+                const sendPara = document.createElement("p");
+                sendPara.innerText = ('sending a file: ' + file.name);
+                document.body.appendChild(sendPara);
             }
             else {
                 console.log("conn closed");
