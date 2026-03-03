@@ -3,30 +3,61 @@ title: "About me"
 url: "/about/"
 layout: single
 translationKey: about
-# showtoc: true
-# tocopen: true
 ShowBreadCrumbs: false
 ---
 
-## 自己紹介
+## 学歴
 
-**西見優輝** は、京都大学 大学院情報学研究科 通信情報システムコース 修士 1 回生です。
+京都大学 _2025/04 - 2028/03_
+: 大学院 情報学研究科 通信情報システムコース 修士課程
+
+スイス連邦工科大学ローザンヌ校 (EPFL) _2025/09 - 2026/07_
+: School of Computer and Communication Sciences (IC), 交換留学生
+
+京都大学 _2021/04 - 2025/03_
+: 工学部 電気電子工学科
 
 ## 活動
 
-<!-- [Kitsu.py](https://github.com/MrArkon/kitsu.py) *Creator & Maintainer* *2021 - present*
-: Kitsu.py is a simple & lightweight [**Python**](https://python.org) library for Kitsu's Manga & Anime API. -->
+Research Internship (EPFL) _2026/02 - 2026/07_
+: [Distributed Computing Lab (DCL)](https://dcl.epfl.ch/site/) にて、大規模言語モデルの効率的な配布のためのP2P配信システムの設計・開発を行うフルタイムの研究プロジェクトに従事。
 
-[テクノロジーが美となるとき](https://www.saci.kyoto-u.ac.jp/topics/ims/14134.html) _2022/10 - 2023/02_
-: 京都大学 産官学連携本部イノベーション マネジメント サイエンス起業・教育部主催のプログラム「テクノロジーが美となるとき」で、工芸やアート、エンジニアリングに関する講義の受講やフィールドワークを行った。
-グループワークでは、担い売りと呼ばれる江戸時代の路上営業の屋台をもとに、機械学習により浮世絵を生成するプリントシール機を模したアート作品を制作。
-[ニューヨークのギャラリー、 NowHere にて制作した作品を展示](https://www.saci.kyoto-u.ac.jp/topics/news/14055.html)した。
+<!-- [交換留学](https://www.kyoto-u.ac.jp/ja/international/students1/study1/exchanges/exchange) _2025/09 - 2026/07_
+: [スイス連邦工科大学ローザンヌ校 (EPFL)](https://www.epfl.ch/about/) にて、2 学期間留学中。
+CS 専攻として授業履修・研究プロジェクトを行う。 -->
+
+夏季インターンシップ (野村総合研究所) _2025/08_
+: 実際のエンタープライズ環境に RAG 機能を追加するフィジビリティ検証およびそのプロトタイピングを行った。
+
+ソフトウェア開発アルバイト _2023/04 - 2025/08_
+: [京都大学 物質−細胞統合システム拠点](https://www.icems.kyoto-u.ac.jp/)にて、電子顕微鏡映像の解析ツールの開発・保守を行った。
 
 [LignoSat Project](https://space.innovationkyoto.org/lignosat-project/) _2023/04 - 2025/03_
 : 京都大学有人宇宙学研究センターと住友林業株式会社による、世界初の木造人工衛星プロジェクトに学生メンバとして参加。
-アンテナにより衛星を追尾し、衛星と FM 通信を行う地上局プログラムの開発・保守を行っている。
+アンテナにより衛星を追尾し、衛星と FM 通信を行う地上局プログラムの開発・保守を行った。
 1 号機は[2024 年 12 月に国際宇宙ステーションより放出された](https://sfc.jp/information/news/2024/2024-05-28.html)。
 
-[交換留学](https://www.kyoto-u.ac.jp/ja/international/students1/study1/exchanges/exchange) _2025/08 - 2026/07_
-: [スイス連邦工科大学ローザンヌ校 (EPFL)](https://www.epfl.ch/about/) にて、2 学期間留学中。
-CS 専攻として授業履修・研究プロジェクトを行う。
+[テクノロジーが美となるとき](https://www.saci.kyoto-u.ac.jp/topics/ims/14134.html) _2022/10 - 2023/02_
+: 京都大学 産官学連携本部イノベーション マネジメント サイエンス起業・教育部主催のプログラム「テクノロジーが美となるとき」で、工芸やアート、エンジニアリングに関する講義の受講やフィールドワークを行った。チームで作成した作品は、ニューヨークのギャラリー [NowHere](https://www.saci.kyoto-u.ac.jp/topics/news/14055.html) で展示した。
+
+## プロジェクト
+
+[Paxos-tob](https://github.com/ynishimi/paxos-tob) _2026/02_
+: 分散システム上で同一順序のメッセージ配信を行うライブラリ。
+
+Decentralized DNS (NameCoin) _2025 Fall_
+: Proof-of-Workブロックチェーンおよび分散DNSをフルスクラッチで実装した。
+
+Memcached Performance Analysis with eBPF _2025 Fall_
+: eBPFを使用し、Memcachedの99パーセンタイル以上のレイテンシにおけるボトルネックを分析した。
+
+## 発表・受賞
+
+- **[学生講演優秀賞](https://www.ieice.org/cs/ns/jpn/student-awards.html)** 2025年前期、電気通信情報学会ネットワークシステム研究会にて受賞。
+
+- Takuto Yamada, Yuki Nishimi, Takehiro Sato, Eiji Oki, “Experimental Analysis of Migration Time for Service Function Chain with Programmable Data Plane”, IEEE Global Communications Conference (GLOBECOM 2025), 2025/12.
+
+## スキル
+
+- **Technologies**: Go, C++, Python, Rust, Git, Linux, eBPF
+- **Open Source**: Contributed to `rust-lang/rustfmt`

@@ -5,7 +5,6 @@ theme: PaperMod
 defaultContentLanguage: ja
 languages:
   ja:
-    disabled: false
     contentDir: content/ja
     languageName: Japanese
     weight: 1
@@ -32,43 +31,32 @@ languages:
           name: dokan
           url: /dokan/
           weight: 50
-
-        # - identifier: example
-        #   name: example.org
-        #   url: https://example.org
-        #   weight: 30
-    params:
-      homeInfoParams:
-        Title: "nikki"
-        # Content: 思ったことを書く
-  # en:
-  #   disabled: false
-  #   contentDir: content/en
-  #   languageName: English
-  #   weight: 2
-  #   menu:
-  #     main:
-  #       - identifier: archive
-  #         name: archive
-  #         url: /en/archive/
-  #         weight: 10
-  #       - identifier: tags
-  #         name: tags
-  #         url: /en/tags/
-  #         weight: 20
-  #       - identifier: about
-  #         name: about me
-  #         url: /en/about/
-  #         weight: 30
-
-  #       # - identifier: example
-  #       #   name: example.org
-  #       #   url: https://example.org
-  #       #   weight: 30
-  #   params:
-  #     homeInfoParams:
-  #       Title: "nikki"
-  #       Content: love -> 🐕, 🎶 , 🌐
+  en:
+    contentDir: content/en
+    languageName: English
+    weight: 2
+    menu:
+      main:
+        - identifier: archive
+          name: archive
+          url: /en/archive/
+          weight: 10
+        - identifier: tags
+          name: tags
+          url: /en/tags/
+          weight: 20
+        - identifier: about
+          name: about me
+          url: /en/about/
+          weight: 30
+        - identifier: paxos-tob
+          name: paxos-tob
+          url: https://github.com/ynishimi/paxos-tob/
+          weight: 40
+        - identifier: dokan
+          name: dokan
+          url: ../dokan/
+          weight: 50
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -85,6 +73,9 @@ params:
   title: nikki
   description: "nikki etc"
   keywords: [Blog, Portfolio, PaperMod]
+  homeInfoParams:
+    Title: "nikki"
+    Content: love -> 🐕, 🎶, 🌐
   # author: yuki
   # author: ["Me", "You"] # multiple authors
   # images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -132,14 +123,12 @@ params:
   # home-info mode
 
   socialIcons:
-    # - name: bluesky
-    #   url: "https://bsky.app/profile/ynishimi.bsky.social"
-    # - name: instagram
-    #   url: "https://www.instagram.com/ynishimi"
     # - name: spotify
     #   url: "https://open.spotify.com/user/%E3%83%A6%E3%82%A6%E3%82%AD?si=fa28f575e23e4ab5"
     - name: github
       url: "https://github.com/ynishimi"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/ynishimi"
 
   analytics:
     google:
