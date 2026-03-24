@@ -19,18 +19,14 @@ languages:
           name: tags
           url: /tags/
           weight: 20
+        - identifier: doodles
+          name: doodles
+          url: /doodles/
+          weight: 30
         - identifier: about
           name: about me
           url: /about/
-          weight: 30
-        - identifier: paxos-tob
-          name: paxos-tob
-          url: https://github.com/ynishimi/paxos-tob/
           weight: 40
-        - identifier: dokan
-          name: dokan
-          url: /dokan/
-          weight: 50
   en:
     contentDir: content/en
     languageName: English
@@ -45,18 +41,14 @@ languages:
           name: tags
           url: /en/tags/
           weight: 20
+        - identifier: doodles
+          name: doodles
+          url: /en/doodles/
+          weight: 30
         - identifier: about
           name: about me
           url: /en/about/
-          weight: 30
-        - identifier: paxos-tob
-          name: paxos-tob
-          url: https://github.com/ynishimi/paxos-tob/
           weight: 40
-        - identifier: dokan
-          name: dokan
-          url: ../dokan/
-          weight: 50
 
 enableRobotsTXT: true
 buildDrafts: false

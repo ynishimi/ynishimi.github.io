@@ -26,7 +26,7 @@ Kyoto University *Apr 2021 - Mar 2025*
 ## Activities
 
 Research Internship (EPFL) *Feb 2026 - Jul 2026*
-: Working on a full-time research project at the [Distributed Computing Lab (DCL)](https://dcl.epfl.ch/site/), focusing on the design and development of a P2P distribution system for efficient Large Language Model (LLM) deployment.
+: Working on a full-time research project at the [Distributed Computing Lab (DCL)](https://dcl.epfl.ch/site/), focusing on the design and development of a distribution system for efficient Large Language Model (LLM) deployment in a distributed inference system, called [Anyway Systems](https://www.epfl.ch/labs/esl/do-we-really-need-big-data-centers-for-ai/).
 
 Technical Engineering Internship (Nomura Research Institute) *Aug 2025*
 : Conducted feasibility verification and prototyping for adding RAG (Retrieval-Augmented Generation) features to an enterprise environment.
