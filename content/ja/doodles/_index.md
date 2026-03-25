@@ -1,5 +1,7 @@
 ---
 title: "Doodles"
+aliases:
+  - /en/doodles/
 ShowBreadCrumbs: false
 ---
 
