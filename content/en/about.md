@@ -35,7 +35,7 @@ Software Developer (iCeMS) *Apr 2023 - Aug 2025*
 : Developed and maintained image analysis tools for electron microscope footage at the [Institute for Integrated Cell-Material Sciences (iCeMS)](https://www.icems.kyoto-u.ac.jp/en/), Kyoto University.
 
 [LignoSat Project](https://space.innovationkyoto.org/lignosat-project/) *Apr 2023 - Mar 2025*
-: Participated as a student member in the world's first wooden satellite project by Kyoto University and Sumitomo Forestry. Developed ground station software for satellite tracking and communication. The first unit was deployed from the ISS in December 2024.
+: Participated as a student member in the world's first wooden satellite project by Kyoto University and Sumitomo Forestry. Developed ground station software for satellite tracking and communication. [The first unit was deployed from the ISS in December 2024](https://www.nasa.gov/image-article/jaxas-first-wooden-satellite-deploys-from-space-station/).
 
 [Technology Reimagines Timeless Beauty](https://www.qetohare.com/en/tecnologymeetsbeauty/) *Oct 2022 - Feb 2023*
 : Participated in a program on craft, art, and engineering. Created an art piece generating ukiyo-e using machine learning, which was exhibited at the [NowHere](https://www.saci.kyoto-u.ac.jp/topics/news/14055.html) gallery in New York.

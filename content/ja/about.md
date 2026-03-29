@@ -38,9 +38,9 @@ CS 専攻として授業履修・研究プロジェクトを行う。 -->
 : [京都大学 物質−細胞統合システム拠点](https://www.icems.kyoto-u.ac.jp/)にて、電子顕微鏡映像の解析ツールの開発・保守を行った。
 
 [LignoSat Project](https://space.innovationkyoto.org/lignosat-project/) _2023/04 - 2025/03_
-: 京都大学有人宇宙学研究センターと住友林業株式会社による、世界初の木造人工衛星プロジェクトに学生メンバとして参加。
+: [京都大学有人宇宙学研究センターと住友林業株式会社による](https://sfc.jp/information/news/2024/2024-05-28.html)、世界初の木造人工衛星プロジェクトに学生メンバとして参加。
 アンテナにより衛星を追尾し、衛星と FM 通信を行う地上局プログラムの開発・保守を行った。
-1 号機は[2024 年 12 月に国際宇宙ステーションより放出された](https://sfc.jp/information/news/2024/2024-05-28.html)。
+1 号機は[2024 年 12 月に国際宇宙ステーションより放出された](https://www.nasa.gov/image-article/jaxas-first-wooden-satellite-deploys-from-space-station/)。
 
 [テクノロジーが美となるとき](https://www.saci.kyoto-u.ac.jp/topics/ims/14134.html) _2022/10 - 2023/02_
 : 京都大学 産官学連携本部イノベーション マネジメント サイエンス起業・教育部主催のプログラム「テクノロジーが美となるとき」で、工芸やアート、エンジニアリングに関する講義の受講やフィールドワークを行った。チームで作成した作品は、ニューヨークのギャラリー [NowHere](https://www.saci.kyoto-u.ac.jp/topics/news/14055.html) で展示した。
