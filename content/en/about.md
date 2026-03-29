@@ -55,7 +55,7 @@ Memcached Performance Analysis with eBPF *Fall 2025*
 
 - **[Student Presentation Award](https://www.ieice.org/cs/ns/jpn/student-awards.html)** - IEICE Technical Committee on Network Systems (NS), first half of 2025.
 
-- Takuto Yamada, Yuki Nishimi, Takehiro Sato, Eiji Oki, “Experimental Analysis of Migration Time for Service Function Chain with Programmable Data Plane”, IEEE Global Communications Conference (GLOBECOM 2025), Dec 2025.
+- Takuto Yamada, Yuki Nishimi, Takehiro Sato, Eiji Oki, [“Experimental Analysis of Migration Time for Service Function Chain with Programmable Data Plane”](https://ieeexplore.ieee.org/document/11432170), IEEE Global Communications Conference (GLOBECOM 2025), Dec 2025.
 
 ## Skills
 
