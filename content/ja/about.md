@@ -6,7 +6,7 @@ translationKey: about
 ShowBreadCrumbs: false
 ---
 
-京都大学大学院情報学研究科 M1 の **西見 優輝** です。
+京都大学大学院情報学研究科 M1 の**西見 優輝**です。
 2025年8月より2026年7月まで、[スイス連邦工科大学ローザンヌ校 (EPFL)](<https://www.epfl.ch/about/>) にて交換留学中です。
 分散的に配置されたコンピュータが同士が、互いに協調しながら高効率性・高信頼性を満たすように動作するための工夫について興味を持っています。
 
@@ -16,22 +16,25 @@ ShowBreadCrumbs: false
 : 大学院 情報学研究科 通信情報システムコース 修士課程 [岡部研究室](https://www.inet.media.kyoto-u.ac.jp/ja/)
 
 スイス連邦工科大学ローザンヌ校 (EPFL) _2025/09 - 2026/07_
-: School of Computer and Communication Sciences (IC), 交換留学生
+: School of Computer and Communication Sciences (IC), Exchange Student
 
 京都大学 _2021/04 - 2025/03_
-: 工学部 電気電子工学科
+: 工学部 電気電子工学科 [大木研究室](https://icn.cce.i.kyoto-u.ac.jp)
 
 ## 活動
 
-Research Internship (EPFL) _2026/02 - 2026/07_
+研究インターン ([IBM Research Tokyo](https://research.ibm.com/projects/systems-research-in-tokyo)) _2026/08 - 2026/10_
+: 分散 LLM 推論インフラストラクチャの効率化に関わる研究に取り組む。
+
+Research Project (EPFL) _2026/02 - 2026/07_
 : [Distributed Computing Lab (DCL)](https://dcl.epfl.ch/site/) にて、分散システム上で大規模言語モデルの推論を行うソフトウェア [Anyway Systems](https://www.epfl.ch/labs/esl/do-we-really-need-big-data-centers-for-ai/) に関わるフルタイムの研究プロジェクトに従事。
 モデルを各ノードに効率的に配布するアルゴリズムおよびそのシステム設計・開発を行う。
 
-<!-- [交換留学](https://www.kyoto-u.ac.jp/ja/international/students1/study1/exchanges/exchange) _2025/09 - 2026/07_
+[交換留学](https://www.kyoto-u.ac.jp/ja/international/students1/study1/exchanges/exchange) _2025/09 - 2026/07_
 : [スイス連邦工科大学ローザンヌ校 (EPFL)](https://www.epfl.ch/about/) にて、2 学期間留学中。
-CS 専攻として授業履修・研究プロジェクトを行う。 -->
+分散システムおよびマルチプロセッサに関する授業履修・研究プロジェクトを行う。
 
-夏季インターンシップ (野村総合研究所) _2025/08_
+サマーインターン (野村総合研究所) _2025/08_
 : 実際のエンタープライズ環境に RAG 機能を追加するフィジビリティ検証およびそのプロトタイピングを行った。
 
 ソフトウェア開発アルバイト _2023/04 - 2025/08_
