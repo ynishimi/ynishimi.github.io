@@ -19,14 +19,10 @@ languages:
           name: tags
           url: /tags/
           weight: 20
-        - identifier: doodles
-          name: doodles
-          url: /doodles/
-          weight: 30
         - identifier: about
           name: about me
           url: /about/
-          weight: 40
+          weight: 30
   en:
     contentDir: content/en
     languageName: English
@@ -41,14 +37,10 @@ languages:
           name: tags
           url: /en/tags/
           weight: 20
-        - identifier: doodles
-          name: doodles
-          url: /en/doodles/
-          weight: 30
         - identifier: about
           name: about me
           url: /en/about/
-          weight: 40
+          weight: 30
 
 enableRobotsTXT: true
 buildDrafts: false

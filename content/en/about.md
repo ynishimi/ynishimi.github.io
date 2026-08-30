@@ -51,3 +51,11 @@ Software Developer (iCeMS) *Apr 2023 - Aug 2025*
 
 - **Technologies**: Go, C++, Python, Rust, Git, Linux, eBPF
 - **Open Source**: Contributed to `rust-lang/rustfmt`
+
+## Doodles
+
+[paxos-tob](https://github.com/ynishimi/paxos-tob) *Feb 2026*
+: A library for total order broadcast across distributed systems.
+
+[dokan](/dokan/) *Jan 2026*
+: A P2P file transfer service that simply runs on your browser.

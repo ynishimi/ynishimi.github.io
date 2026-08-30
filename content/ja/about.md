@@ -52,3 +52,11 @@ Research Project (EPFL) _2026/02 - 2026/06_
 
 - **Technologies**: Go, C++, Python, Rust, Git, Linux, eBPF
 - **Open Source**: Contributed to `rust-lang/rustfmt`
+
+## Doodles
+
+[paxos-tob](https://github.com/ynishimi/paxos-tob) _Feb 2026_
+: A library for total order broadcast across distributed systems.
+
+[dokan](/dokan/) _Jan 2026_
+: A P2P file transfer service that simply runs on your browser.
